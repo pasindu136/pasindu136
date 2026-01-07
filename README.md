@@ -1,7 +1,9 @@
 <h1 align="center">Hi there, I'm Pasindu Sandamal! 👋</h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coding Animation" width="100%" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Desktop+Application+Creator;LMS+%26+POS+Solutions+Specialist;HDIT+Student+@+ICST+University&font=Fira+Code&center=true&width=600&height=50&color=33C2FF&vCenter=true&size=25" alt="Typing Animation" />
+  </a>
 </p>
 
 ### 👨‍💻 Developer | Tech Enthusiast | Student
