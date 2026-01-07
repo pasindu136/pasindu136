@@ -36,8 +36,8 @@ Here are some of the technologies I work with:
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Pasindu's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pasindu136&show_icons=true&theme=radical" alt="Pasindu's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindu136&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -45,19 +45,16 @@ Here are some of the technologies I work with:
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/pasindu136" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
+  <a href="https://facebook.com/pasindu136" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
+  <a href="https://twitter.com/pasindu136" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://youtube.com/c/YOUR_YOUTUBE_CHANNEL" target="_blank">
+  <a href="https://youtube.com/c/pasindu136" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
