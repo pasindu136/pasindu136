@@ -6,17 +6,18 @@
   </a>
 </p>
 
-### 👨‍💻 Developer | Tech Enthusiast | Student
+### 👨‍💻 About Me
 
 I am a passionate developer interested in **Web Development**, **Software Development**, and building **Desktop Applications**. I specialize in creating custom **LMS (Learning Management Systems)** and **POS (Point of Sale)** solutions.
 
-Currently, I am pursuing my **Higher Diploma in Information Technology (HDIT)** at **ICST University**.
+* 🎓 Currently pursuing **Higher Diploma in Information Technology (HDIT)** at **ICST University**.
+* 🔭 I’m currently working on custom **Enterprise Software Solutions**.
+* 🌱 I’m currently learning **Advanced Cloud Technologies & System Architecture**.
+* 💬 Ask me about **Java, C#, or PHP development**.
 
 ---
 
 ### 🛠️ Technologies & Tools
-Here are some of the technologies I work with:
-
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -35,34 +36,25 @@ Here are some of the technologies I work with:
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pasindu136&show_icons=true&theme=radical&count_private=true" alt="Pasindu's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pasindu136&layout=compact&theme=radical" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pasindu136&show_icons=true&theme=radical&count_private=true" alt="Pasindu's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pasindu136&layout=compact&theme=radical" alt="Top Languages" width="38%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pasindu136&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
 ### 📫 Connect with Me
-
 <p align="left">
-  <a href="https://linkedin.com/in/pasindu136" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://facebook.com/pasindu136" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://twitter.com/pasindu136" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://youtube.com/c/pasindu136" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
+  <a href="https://linkedin.com/in/pasindu136" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://facebook.com/pasindu136" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://twitter.com/pasindu136" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://youtube.com/c/pasindu136" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
+
+<br />
+
+<p align="center">⭐️ From <b>Pasindu Sandamal</b></p>
