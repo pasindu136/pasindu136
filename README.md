@@ -36,8 +36,8 @@ Here are some of the technologies I work with:
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pasindu136&show_icons=true&theme=radical" alt="Pasindu's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindu136&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pasindu136&show_icons=true&theme=radical&count_private=true" alt="Pasindu's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pasindu136&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
