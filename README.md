@@ -36,14 +36,20 @@ I am a passionate developer interested in **Web Development**, **Software Develo
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pasindu136&show_icons=true&theme=radical&count_private=true" alt="Pasindu's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pasindu136&layout=compact&theme=radical" alt="Top Languages" width="38%" />
-</p>
-
-<p align="center">
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pasindu136&show_icons=true&theme=radical&count_private=true&hide_title=true&box_shadow=true" height="170px" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pasindu136&layout=compact&theme=radical&hide_title=true&box_shadow=true" height="170px" />
+      </td>
+    </tr>
+  </table>
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pasindu136&theme=radical" alt="GitHub Streak" />
-</p>
+</div>
 
 ---
 
